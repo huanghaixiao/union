@@ -1,0 +1,1 @@
+webpackJsonp([13],{"dI/8":function(t,e,n){"use strict";Object.defineProperty(e,"__esModule",{value:!0});var s={render:function(){var t=this.$createElement;return(this._self._c||t)("div",{staticClass:"content",attrs:{slot:"content"},slot:"content"})},staticRenderFns:[]},r=n("VU/8")({mounted:function(){this.$router.push("result")}},s,!1,null,null,null);e.default=r.exports}});
